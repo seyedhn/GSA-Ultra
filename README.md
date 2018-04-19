@@ -1,1 +1,1 @@
-These are the Python codes for the GSA Ultra competition.
+These are the solution codes written in Python for the GSA Ultra competition.
